@@ -1,0 +1,1 @@
+This stuff is so bad and old that I'm almost ashamed to share it. Almost. It's really not worth your time. But for the sake of failure documentation, here you go. THis does not represent my coding style in any meaningful way. This is code I would write after a bottle of vodka and a few beers.
